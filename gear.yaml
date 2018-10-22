@@ -1,0 +1,284 @@
+
+Coleman Peak 1:
+  type: backpack
+  weight: 2222
+  base: 1
+
+Sea to Summit Latitude II:
+  type: sleeping bag
+  weight: 1130
+  base: 1
+
+North Face (blue):
+  type: sleeping bag
+  weight: 1628
+
+Sierra Designs:
+  type: sleeping bag
+  weight: 1143
+
+Orange Thermarest:
+  type: sleeping pad
+  weight: 1070
+
+Big Agnes Insulated Air Core:
+  type: sleeping pad
+  weight: 721
+  base: 1
+
+Thermarest Ridgerest:
+  type: sleeping pad
+  weight: 418
+  base: 1
+
+MSR Hubba Hubba NX 2:
+  type: tent
+  weight: 1722
+  base: 1
+
+Northface Nebula:
+  type: tent
+  weight: 3910
+
+MSR Hubba Hubba Footprint:
+  type: ground cloth
+  weight: 193
+  base: 1
+
+Outad:
+  type: tarp
+  weight: 294
+
+REI 9x9:
+  type: tarp
+  weight: 649
+  base: 1
+
+Jet Boil:
+  type: stove
+  weight: 433
+
+Snowpeak Gigawatt:
+  type: stove
+  weight: 110
+  base: 1
+
+Snowpeak 900 with Lid:
+  type: pot
+  weight: 155
+  base: 1
+
+Jet Boil Fuel:
+  type: fuel
+  weight: 162
+  base: 1
+
+Porlex Mini:
+  type: coffee grinder
+  weight: 246
+  base: 1
+
+Hario V60 Size 2:
+  type: coffee filter
+  weight: 6
+  base: 10
+
+Hario V60 Size 2 Plastic:
+  type: coffee pour over
+  weight: 61
+  base: 1
+
+Metal One with Black Handle:
+  type: mug
+  weight: 224
+
+Peak 1:
+  type: mug
+  weight: 157
+
+Snowpeak 600:
+  type: mug
+  weight: 82
+  base: 1
+
+Blue Plastic One:
+  type: bowl
+  weight: 63
+  base: 1
+
+Light My Fire:
+  type: spork
+  weight: 10
+
+Snowpeak Titanium:
+  type: spork
+  weight: 15
+  base: 1
+
+GSI:
+  type: butter knife
+  weight: 13
+  base: 1
+
+Sea to Summit:
+  type: compression sack
+  weight: 192
+  base: 1
+
+Patagonia Black:
+  type: T-shirt
+  weight: 147
+  base: 1
+
+Brooks Blue:
+  type: T-shirt
+  weight: 151
+  worn: 1
+
+Exofficio:
+  type: boxers
+  weight: 85
+  base: 1
+  worn: 1
+
+REI Thick Brown:
+  type: socks
+  weight: 101
+
+Patagonia Lightweight (Blue):
+  type: long johns
+  weight: 166
+
+Patagonia Green:
+  type: fleece
+  weight: 336
+
+Patagonia Black:
+  type: fleece
+  weight: 270
+  base: 1
+
+Mizuno:
+  type: fleece
+  weight: 388
+
+Patagonia Board Shorts:
+  type: shorts
+  weight: 159
+  base: 1
+
+Patagonia Khaki:
+  type: shorts
+  weight: 140
+
+Arcteryx:
+  type: pants
+  weight: 282
+  base: 1
+
+Icebreaker Merino:
+  type: warm hat
+  weight: 26
+  base: 1
+
+Nike DryFit:
+  type: hat
+  weight: 59
+  worn: 1
+
+Marmot PreCip:
+  type: rain jacket
+  weight: 310
+  base: 1
+
+Cloudveil:
+  type: jacket
+  weight: 625
+
+Marmot Trovat:
+  type: boots
+  weight: 1564
+  worn: 1
+
+La Sportiva Ultra Raptor with Inserts:
+  type: shoes
+  weights: 930
+
+Spyderco Delica4:
+  type: knife
+  weight: 66
+  base: 1
+
+Spyderco Dragonfly:
+  type: knife
+  weight: 34
+
+Option B:
+  type: coffee
+  weight: 20
+  nonbase: 6
+
+Lip Trip:
+  type: lip balm
+  weight: 10
+  base: 1
+
+iPhone 6:
+  type: phone
+  weight: 150
+  base: 1
+
+Anker:
+  type: phone charger
+  weight: 0
+  base: 1
+
+Beats Earbuds:
+  type: headphones
+  weight: 50
+  base: 1
+
+HiFi Man:
+  type: headphones
+  weight: 40
+
+Petzl:
+  type: headlamp
+  weight: 84
+  base: 1
+
+Bushnell Bear Grylls:
+  type: monocular
+  weight: 146
+  base: 1
+
+Nite Ize RR-04-50, 50 feet:
+  type: cord
+  weight: 68
+  base: 1
+
+Thermarest:
+  type: sit pad
+  weight: 58
+  base: 1
+
+Nalgene:
+  type: water bottle
+  weight: 177
+  base: 2
+
+Waist Leash with Gentle Leader:
+  type: dog leash
+  weight: 388
+
+Milo Meal:
+  type: dog food
+  weight: 138
+
+REI Foldable:
+  type: dog bowl
+  weight: 115
+
+Outdoor Products:
+  type: dog bowl
+  weight: 59
