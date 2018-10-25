@@ -1,284 +1,408 @@
 
 Coleman Peak 1:
   type: backpack
+  category: pack
   weight: 2222
   base: 1
 
 Sea to Summit Latitude II:
   type: sleeping bag
+  category: sleep system
   weight: 1130
   base: 1
 
 North Face (blue):
   type: sleeping bag
+  category: sleep system
   weight: 1628
 
 Sierra Designs:
   type: sleeping bag
+  category: sleep system
   weight: 1143
 
 Orange Thermarest:
   type: sleeping pad
+  category: sleep system  
   weight: 1070
 
 Big Agnes Insulated Air Core:
   type: sleeping pad
+  category: sleep system
   weight: 721
   base: 1
 
 Thermarest Ridgerest:
   type: sleeping pad
+  category: sleep system
   weight: 418
+  base: 1
+
+Sea to Summit Aeros Pillow Ultralight:
+  type: pillow
+  category: sleep system
+  weight: 77
   base: 1
 
 MSR Hubba Hubba NX 2:
   type: tent
+  category: shelter
   weight: 1722
   base: 1
 
 Northface Nebula:
   type: tent
+  category: shelter
   weight: 3910
 
 MSR Hubba Hubba Footprint:
   type: ground cloth
+  category: shelter
   weight: 193
   base: 1
 
 Outad:
   type: tarp
+  category: shelter
   weight: 294
 
 REI 9x9:
   type: tarp
+  category: shelter
   weight: 649
   base: 1
 
+MSR Mini Groundhog Stakes (6):
+  type: stakes
+  category: shelter
+  weight: 57
+  base: 1
+
+Eco hammock:
+  type: hammock
+  category: shelter
+  weight: 520
+
+Eco hammock straps:
+  type: hammock straps
+  category: shelter
+  weight: 314
+
 Jet Boil:
   type: stove
+  category: cooking
   weight: 433
 
 Snowpeak Gigawatt:
   type: stove
+  category: cooking  
   weight: 110
   base: 1
 
 Snowpeak 900 with Lid:
   type: pot
+  category: cooking  
   weight: 155
   base: 1
 
 Jet Boil Fuel:
   type: fuel
+  category: cooking  
   weight: 162
   base: 1
 
 Porlex Mini:
   type: coffee grinder
+  category: cooking  
   weight: 246
   base: 1
 
 Hario V60 Size 2:
   type: coffee filter
+  category: cooking  
   weight: 6
   base: 10
 
 Hario V60 Size 2 Plastic:
   type: coffee pour over
+  category: cooking  
   weight: 61
   base: 1
 
 Metal One with Black Handle:
   type: mug
+  category: cooking  
   weight: 224
 
 Peak 1:
   type: mug
+  category: cooking
   weight: 157
 
 Snowpeak 600:
   type: mug
+  category: cooking  
   weight: 82
   base: 1
 
 Blue Plastic One:
   type: bowl
+  category: cooking  
   weight: 63
   base: 1
 
 Light My Fire:
   type: spork
+  category: cooking  
   weight: 10
 
 Snowpeak Titanium:
   type: spork
+  category: cooking  
   weight: 15
   base: 1
 
 GSI:
   type: butter knife
+  category: cooking
   weight: 13
   base: 1
 
 Sea to Summit:
   type: compression sack
+  category: pack  
   weight: 192
   base: 1
 
 Patagonia Black:
   type: T-shirt
+  category: clothes
   weight: 147
   base: 1
 
 Brooks Blue:
   type: T-shirt
+  category: clothes
   weight: 151
   worn: 1
 
 Exofficio:
   type: boxers
+  category: clothes
   weight: 85
   base: 1
   worn: 1
 
 REI Thick Brown:
   type: socks
+  category: clothes
   weight: 101
 
 Patagonia Lightweight (Blue):
   type: long johns
+  category: clothes
   weight: 166
 
 Patagonia Green:
   type: fleece
+  category: clothes
   weight: 336
 
 Patagonia Black:
   type: fleece
+  category: clothes
   weight: 270
   base: 1
 
 Mizuno:
   type: fleece
+  category: clothes
   weight: 388
 
 Patagonia Board Shorts:
   type: shorts
+  category: clothes
   weight: 159
   base: 1
 
 Patagonia Khaki:
   type: shorts
+  category: clothes
   weight: 140
 
 Arcteryx:
   type: pants
+  category: clothes
   weight: 282
   base: 1
 
 Icebreaker Merino:
   type: warm hat
+  category: clothes
   weight: 26
   base: 1
 
 Nike DryFit:
   type: hat
+  category: clothes
   weight: 59
   worn: 1
 
 Marmot PreCip:
   type: rain jacket
+  category: rain gear
   weight: 310
+  base: 1
+
+Outdoor Research Helium:
+  type: rain jacket
+  category: rain gear
+  weight: 155
   base: 1
 
 Cloudveil:
   type: jacket
+  category: rain gear
   weight: 625
 
 Marmot Trovat:
   type: boots
+  category: clothes  
   weight: 1564
   worn: 1
 
 La Sportiva Ultra Raptor with Inserts:
   type: shoes
+  category: clothes
   weights: 930
 
 Spyderco Delica4:
   type: knife
+  category: miscellaneous
   weight: 66
   base: 1
 
 Spyderco Dragonfly:
   type: knife
+  category: miscellaneous
   weight: 34
 
 Option B:
   type: coffee
+  category: food
   weight: 20
   nonbase: 6
 
 Lip Trip:
   type: lip balm
+  category: miscellaneous
   weight: 10
   base: 1
 
 iPhone 6:
   type: phone
+  category: electronics
   weight: 150
   base: 1
 
 Anker:
   type: phone charger
+  category: electronics
   weight: 0
+  base: 1
+
+Garmin InReach Mini:
+  type: GPS device
+  category: electronics
+  weight: 100
   base: 1
 
 Beats Earbuds:
   type: headphones
+  category: electronics
   weight: 50
   base: 1
 
 HiFi Man:
   type: headphones
+  category: electronics
   weight: 40
 
 Petzl:
   type: headlamp
+  category: miscellaneous
   weight: 84
   base: 1
 
 Bushnell Bear Grylls:
   type: monocular
+  category: miscellaneous
   weight: 146
   base: 1
 
 Nite Ize RR-04-50, 50 feet:
   type: cord
+  category: miscellaneous
   weight: 68
-  base: 1
 
 Thermarest:
   type: sit pad
+  category: miscellaneous
   weight: 58
   base: 1
 
 Nalgene:
   type: water bottle
+  category: miscellaneous
   weight: 177
   base: 2
 
 Waist Leash with Gentle Leader:
   type: dog leash
+  category: dog gear
   weight: 388
+  nonbase: 1
 
 Milo Meal:
   type: dog food
+  category: food
   weight: 138
 
 REI Foldable:
   type: dog bowl
+  category: dog gear
   weight: 115
+  nonbase: 1
 
 Outdoor Products:
   type: dog bowl
+  category: dog gear
   weight: 59
+  nonbase: 1
+
+Wipes:
+  type: Purell hand sanitizing wipes
+  category: miscellaneous
+  weight: 54
+  base: 1
+
+Custom ditty bag:
+  type: ditty bag
+  category: miscellaneous
+  weight: 400
+  base: 1
+  note: \textbf{Dity Bag} Vaseline cotton ball fire starters, 50 ft. of cord, Bic lighter, UCO storm-proof matches, Potable Aqua water purification tablets, Sawyer Squeeze water filter, duct tape, Gear Air Tenacious Tape, sun screen
+
+Custom first aid kit:
+  type: first aid kit
+  category: miscellaneous
+  weight: 188
+  base: 1
+  note: \textbf{First Aid Kit} Ibuprofen, Mole Skin, Neosporin, tweezers, safety pin, Swiss Army Classic, whistle,  Band Aids, gauze, tape, children's chewable Tylenol, generic Pepto, anti-diarrheal
+
+Fire starter:
+  type: Generic fire starter sticks
+  category: miscellaneous
+  weight: 71
+  base: 1
+
