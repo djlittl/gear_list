@@ -287,6 +287,17 @@ Spyderco Dragonfly:
   category: miscellaneous
   weight: 34
 
+Bahco Laplander:
+  type: folding saw
+  category: miscellaneous
+  weight: 190
+  base: 1
+
+Suunto:
+  type: compass
+  category: miscellaneous
+  weight: 30
+
 Option B:
   type: coffee
   category: food
@@ -351,10 +362,15 @@ Thermarest:
   weight: 58
   base: 1
 
-Nalgene:
+Nalgene 32oz:
   type: water bottle
   category: miscellaneous
   weight: 177
+
+Nalgene 48oz HDPE:
+  type: water bottle
+  category: miscellaneous
+  weight: 151
   base: 2
 
 Waist Leash with Gentle Leader:
@@ -406,3 +422,9 @@ Fire starter:
   weight: 71
   base: 1
 
+Custom toiletries bag:
+  type: toiletries
+  category: miscellaneous
+  weight: 0
+  base: 1
+  note: \textbf{Toiletries} toilet paper, toothbrush, tooth paste, floss
