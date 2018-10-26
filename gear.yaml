@@ -168,6 +168,18 @@ GSI:
   weight: 13
   base: 1
 
+Part of kitchen sponge:
+  type: sponge
+  category: cooking
+  weight: 0
+  base: 1
+
+Small rag:
+  type: rag
+  category: cooking
+  weight: 0
+  base: 1
+
 Sea to Summit:
   type: compression sack
   category: pack  
@@ -402,6 +414,18 @@ Wipes:
   weight: 54
   base: 1
 
+Z Packs bear bag:
+  type: bear bag
+  category: pack
+  weight: 0
+  base: 1
+
+Koksak Opsak:
+  type: food bag
+  category: pack
+  weight: 0
+  base: 2
+
 Custom ditty bag:
   type: ditty bag
   category: miscellaneous
@@ -420,6 +444,12 @@ Fire starter:
   type: Generic fire starter sticks
   category: miscellaneous
   weight: 71
+  base: 1
+
+Duce of Spades:
+  type: trowel
+  category: miscellaneous
+  weight: 0
   base: 1
 
 Custom toiletries bag:
