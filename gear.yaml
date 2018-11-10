@@ -171,13 +171,13 @@ GSI:
 Part of kitchen sponge:
   type: sponge
   category: cooking
-  weight: 0
+  weight: 5
   base: 1
 
 Small rag:
   type: rag
   category: cooking
-  weight: 0
+  weight: 12
   base: 1
 
 Sea to Summit:
@@ -328,10 +328,10 @@ iPhone 6:
   weight: 150
   base: 1
 
-Anker:
+Anker PowerCore+ mini:
   type: phone charger
   category: electronics
-  weight: 0
+  weight: 81
   base: 1
 
 Garmin InReach Mini:
@@ -417,14 +417,20 @@ Wipes:
 Z Packs bear bag:
   type: bear bag
   category: pack
-  weight: 0
+  weight: 96
   base: 1
 
-Koksak Opsak:
+Koksak Opsak 12"x20":
   type: food bag
   category: pack
-  weight: 0
+  weight: 45
   base: 2
+
+Koksak Opsak 9"x10":
+  type: food bag
+  category: pack
+  weight: 19
+  base: 0
 
 Custom ditty bag:
   type: ditty bag
