@@ -30,6 +30,11 @@ Big Agnes Insulated Air Core:
   type: sleeping pad
   category: sleep system
   weight: 721
+
+Thermarest NeoAir XLite:
+  type: sleeping pad
+  category: sleep system
+  weight: 352
   base: 1
 
 Thermarest Ridgerest:
@@ -65,18 +70,19 @@ Outad:
   type: tarp
   category: shelter
   weight: 294
+  base: 0
 
 REI 9x9:
   type: tarp
   category: shelter
   weight: 649
-  base: 1
+  base: 0
 
 MSR Mini Groundhog Stakes (6):
   type: stakes
   category: shelter
   weight: 57
-  base: 1
+  base: 0
 
 Eco hammock:
   type: hammock
@@ -87,6 +93,11 @@ Eco hammock straps:
   type: hammock straps
   category: shelter
   weight: 314
+
+Hummingbird hammock straps:
+  type:  hammock straps
+  category: shelter
+  weight: 48
 
 Jet Boil:
   type: stove
@@ -184,7 +195,6 @@ Sea to Summit:
   type: compression sack
   category: pack  
   weight: 192
-  base: 1
 
 Patagonia Black:
   type: T-shirt
@@ -224,7 +234,7 @@ Patagonia Black:
   type: fleece
   category: clothes
   weight: 270
-  base: 1
+  base: 0
 
 Mizuno:
   type: fleece
@@ -260,6 +270,12 @@ Nike DryFit:
   weight: 59
   worn: 1
 
+Patagonia Micro Puff:
+  type: jacket
+  category: clothes
+  weight: 268
+  base: 1
+
 Marmot PreCip:
   type: rain jacket
   category: rain gear
@@ -267,7 +283,7 @@ Marmot PreCip:
   base: 1
 
 Outdoor Research Helium:
-  type: rain jacket
+  type: rain pants
   category: rain gear
   weight: 155
   base: 1
@@ -326,6 +342,11 @@ iPhone 6:
   type: phone
   category: electronics
   weight: 150
+
+iPhone XS:
+  type: phone
+  category: electronics
+  weight: 207
   base: 1
 
 Anker PowerCore+ mini:
@@ -361,7 +382,7 @@ Bushnell Bear Grylls:
   type: monocular
   category: miscellaneous
   weight: 146
-  base: 1
+  base: 0
 
 Nite Ize RR-04-50, 50 feet:
   type: cord
@@ -372,7 +393,7 @@ Thermarest:
   type: sit pad
   category: miscellaneous
   weight: 58
-  base: 1
+  base: 0
 
 Nalgene 32oz:
   type: water bottle
@@ -389,7 +410,7 @@ Waist Leash with Gentle Leader:
   type: dog leash
   category: dog gear
   weight: 388
-  nonbase: 1
+  nonbase: 0
 
 Milo Meal:
   type: dog food
@@ -400,13 +421,13 @@ REI Foldable:
   type: dog bowl
   category: dog gear
   weight: 115
-  nonbase: 1
+  nonbase: 0
 
 Outdoor Products:
   type: dog bowl
   category: dog gear
   weight: 59
-  nonbase: 1
+  nonbase: 0
 
 Wipes:
   type: Purell hand sanitizing wipes
