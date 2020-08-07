@@ -3,6 +3,11 @@ Coleman Peak 1:
   type: backpack
   category: pack
   weight: 2222
+
+Osprey Atmos AG 65:
+  type: backpack
+  category: pack
+  weight: 2068
   base: 1
 
 Sea to Summit Latitude II:
@@ -41,7 +46,7 @@ Thermarest Ridgerest:
   type: sleeping pad
   category: sleep system
   weight: 418
-  base: 1
+  base: 0
 
 Sea to Summit Aeros Pillow Ultralight:
   type: pillow
@@ -76,7 +81,7 @@ REI 9x9:
   type: tarp
   category: shelter
   weight: 649
-  base: 0
+  base: 1
 
 MSR Mini Groundhog Stakes (6):
   type: stakes
@@ -132,7 +137,7 @@ Hario V60 Size 2:
   type: coffee filter
   category: cooking  
   weight: 6
-  base: 10
+  base: 6
 
 Hario V60 Size 2 Plastic:
   type: coffee pour over
@@ -160,7 +165,7 @@ Blue Plastic One:
   type: bowl
   category: cooking  
   weight: 63
-  base: 1
+  base: 2
 
 Light My Fire:
   type: spork
@@ -171,13 +176,13 @@ Snowpeak Titanium:
   type: spork
   category: cooking  
   weight: 15
-  base: 1
+  base: 2
 
 GSI:
   type: butter knife
   category: cooking
   weight: 13
-  base: 1
+  base: 0
 
 Part of kitchen sponge:
   type: sponge
@@ -219,6 +224,7 @@ REI Thick Brown:
   type: socks
   category: clothes
   weight: 101
+  base: 0
 
 Patagonia Lightweight (Blue):
   type: long johns
@@ -234,7 +240,7 @@ Patagonia Black:
   type: fleece
   category: clothes
   weight: 270
-  base: 0
+  base: 1
 
 Mizuno:
   type: fleece
@@ -274,7 +280,7 @@ Patagonia Micro Puff:
   type: jacket
   category: clothes
   weight: 268
-  base: 1
+  base: 0
 
 Marmot PreCip:
   type: rain jacket
@@ -286,8 +292,8 @@ Outdoor Research Helium:
   type: rain pants
   category: rain gear
   weight: 155
-  base: 1
-
+  base: 0
+  
 Cloudveil:
   type: jacket
   category: rain gear
@@ -319,7 +325,7 @@ Bahco Laplander:
   type: folding saw
   category: miscellaneous
   weight: 190
-  base: 1
+  base: 0
 
 Suunto:
   type: compass
@@ -353,7 +359,7 @@ Anker PowerCore+ mini:
   type: phone charger
   category: electronics
   weight: 81
-  base: 1
+  base: 0
 
 Garmin InReach Mini:
   type: GPS device
@@ -365,7 +371,7 @@ Beats Earbuds:
   type: headphones
   category: electronics
   weight: 50
-  base: 1
+  base: 0
 
 HiFi Man:
   type: headphones
@@ -393,7 +399,7 @@ Thermarest:
   type: sit pad
   category: miscellaneous
   weight: 58
-  base: 0
+  base: 2
 
 Nalgene 32oz:
   type: water bottle
